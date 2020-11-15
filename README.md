@@ -37,8 +37,8 @@ Might continue on this in the future.
 
 
 ## Inspiration
-[Codecademy](https://www.codecademy.com)
-[Cards against humanity](http://cardsagainsthumanity.surge.sh/)
+*[Codecademy](https://www.codecademy.com)
+*[Cards against humanity](http://cardsagainsthumanity.surge.sh/)
 
 ## Contact
 Created by [@MusashiAsada](https://github.com/MusashiAsada) - feel free to contact me!
