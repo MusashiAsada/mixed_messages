@@ -19,7 +19,7 @@ generateRandomBlack (arrayBlack) {
 },
     //Sätter ihop de två korten
 generateRandomSentence (){
-    const sentence = **this.generateRandomBlack(black)** + ' ' + *this.generateRandomWhite(white)*;
+    const sentence = this.generateRandomBlack(black) + ' ' + this.generateRandomWhite(white);
     return console.log(sentence);
 }
 }
