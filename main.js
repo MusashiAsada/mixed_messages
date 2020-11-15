@@ -17,6 +17,7 @@ generateRandomBlack (arrayBlack) {
     const whiteWord = arrayWhite[randomNum];
     return whiteWord;
 },
+    //Sätter ihop de två korten
 generateRandomSentence (){
     const sentence = this.generateRandomBlack(black) + ' ' + this.generateRandomWhite(white);
     return console.log(sentence);
