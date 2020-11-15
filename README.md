@@ -3,7 +3,6 @@ An app built with Javascript, that randomizes and creates a random combination o
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -39,7 +38,7 @@ Might continue on this in the future.
 
 ## Inspiration
 [Codecademy](https://www.codecademy.com)
-[Cards against humanity] (http://cardsagainsthumanity.surge.sh/)
+[Cards against humanity](http://cardsagainsthumanity.surge.sh/)
 
 ## Contact
 Created by [@MusashiAsada](https://github.com/MusashiAsada) - feel free to contact me!
